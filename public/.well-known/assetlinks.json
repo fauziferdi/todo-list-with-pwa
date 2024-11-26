@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.todo_list_with_pwa_fauzi.twa",
+        "sha256_cert_fingerprints": ["C4:C5:BE:29:D6:E0:87:1B:BE:F9:DB:F2:36:5F:FD:16:1E:E7:75:08:01:9C:D2:26:AC:CB:22:93:5C:02:5A:78"]
+      }
+    }]
